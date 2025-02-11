@@ -1,0 +1,96 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\ajax\libs\jquery\3.2.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://stereo1.miradioenvivo.com/
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\index.htm
+Content Type: text/html
+
+Uri: https://stereo1.miradioenvivo.com/iconos/facebook.png
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\iconos\facebook.png
+Content Type: image/png
+
+Uri: https://stereo1.miradioenvivo.com/iconos/tiktok.png
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\iconos\tiktok.png
+Content Type: image/png
+
+Uri: https://stereo1.miradioenvivo.com/iconos/whatsapp.png
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\iconos\whatsapp.png
+Content Type: image/png
+
+Uri: https://stereo1.miradioenvivo.com/imagenes/compartirfacebook.png
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\imagenes\compartirfacebook.png
+Content Type: image/png
+
+Uri: https://stereo1.miradioenvivo.com/imagenes/compartirwhatsapp.png
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\imagenes\compartirwhatsapp.png
+Content Type: image/png
+
+Uri: https://stereo1.miradioenvivo.com/imagenes/email.png
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\imagenes\email.png
+Content Type: image/png
+
+Uri: https://stereo1.miradioenvivo.com/imagenes/inicio.png
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\imagenes\inicio.png
+Content Type: image/png
+
+Uri: https://stereo1.miradioenvivo.com/imagenes/instagram.png
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\imagenes\instagram.png
+Content Type: image/png
+
+Uri: https://stereo1.miradioenvivo.com/imagenes/llamanos.png
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\imagenes\llamanos.png
+Content Type: image/png
+
+Uri: https://stereo1.miradioenvivo.com/imagenes/logo.png
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\imagenes\logo.png
+Content Type: image/png
+
+Uri: https://stereo1.miradioenvivo.com/imagenes/messenger.png
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\imagenes\messenger.png
+Content Type: image/png
+
+Uri: https://stereo1.miradioenvivo.com/imagenes/tiktok.png
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\imagenes\tiktok.png
+Content Type: image/png
+
+Uri: https://stereo1.miradioenvivo.com/imagenes/web.png
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\imagenes\web.png
+Content Type: image/png
+
+Uri: https://stereo1.miradioenvivo.com/imagenes/Youtube.png
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\imagenes\Youtube.png
+Content Type: image/png
+
+Uri: https://stereo1.miradioenvivo.com/instalar.png
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\instalar.png
+Content Type: image/png
+
+Uri: https://stereo1.miradioenvivo.com/js/lunaradio.min.js
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\js\lunaradio.min.js
+Content Type: text/javascript
+
+Uri: https://stereo1.miradioenvivo.com/manifest.json
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\manifest.json
+Content Type: application/json
+
+Uri: https://stereo1.miradioenvivo.com/menu.png
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\menu.png
+Content Type: image/png
+
+Uri: https://stereo1.miradioenvivo.com/styles.css
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\styles.css
+Content Type: text/css
+
+Uri: https://stereo1.miradioenvivo.com/video.mp4
+File Name: C:\Users\mini\Desktop\televen\stereo1.miradioenvivo.com\video.mp4
+Content Type: video/mp4
+

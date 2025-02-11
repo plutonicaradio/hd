@@ -1,0 +1,31 @@
+{
+    "name": "Latido Romantica",
+    "short_name": "Radio Plutonia",
+    "start_url": "https://phoenixradiohd.github.io/94/",
+    "display": "standalone",
+    "background_color": "#0e0d0d",
+    "theme_color": "#0e0d0d",
+    "description": "Escucha tu radio favorita en cualquier lugar.",
+    "icons": [
+        {
+            "src": "imagenes/app.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "imagenes/app.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "imagenes/app.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "imagenes/app.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ]
+}
